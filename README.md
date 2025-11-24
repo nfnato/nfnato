@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nfnato)
+![](https://komarev.com/ghpvc/?username=nfnato&abbreviated=true)
 
 
 white hat for multiple roblox games
